@@ -1,8 +1,8 @@
-main()
+intmain()
 {
-int A,B,C;
+float A,B,C;
 A=4;
 B=5;
 C=A+B;
-printf("%d",C);
+printf("%f",C);
 }
