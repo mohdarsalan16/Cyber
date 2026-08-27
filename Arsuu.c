@@ -15,4 +15,12 @@ int main()
     printf("Press Enter to exit...");
     getchar();
     getchar(); // Waits for the user to press Enter
+float A,B,C;
+A=4;
+B=5;
+C=A+B;
+printf("%f",C);
+  
 }
+// My first GitHub edit
+// Practicing branches
