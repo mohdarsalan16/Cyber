@@ -7,3 +7,4 @@ C=A+B;
 printf("%f",C);
 }
 // My first GitHub edit
+// Practicing branches
