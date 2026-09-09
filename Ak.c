@@ -3,8 +3,8 @@
 int main() 
 {
     int A, B, C;
-    A = 5;
-    B = 15;
+    A = 10;
+    B = 20;
     C = A + B;
     printf("add\n");
     printf("%d\n", C);
